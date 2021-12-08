@@ -1,0 +1,6 @@
+Created by testinium on 6.12.2021
+
+This is a concept file with following syntax for each concept.
+# Seçilen ürün sepete eklenir
+* "com.ozdilek.ozdilekteyim:id/relLayAddCartBtn" id'li elemente tıklanır
+* "3" saniye bekle

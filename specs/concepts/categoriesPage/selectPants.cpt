@@ -1,0 +1,6 @@
+Created by testinium on 6.12.2021
+
+This is a concept file with following syntax for each concept.
+# Pantalon kategorisi seçilir
+* "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout[1]/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/androidx.recyclerview.widget.RecyclerView/android.widget.RelativeLayout[4]" elementine xpath ile tıklanır
+* "3" saniye bekle

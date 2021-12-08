@@ -1,0 +1,8 @@
+Created by testinium on 6.12.2021
+
+This is a concept file with following syntax for each concept.
+# Kategoriler sayfası açılır
+* "3" saniye bekle
+* "com.ozdilek.ozdilekteyim:id/nav_categories" id'li elemente tıklanır
+* "3" saniye bekle
+* "//android.widget.LinearLayout[@content-desc='Kategoriler']" xpath'li elementin sayfada olduğunu kontrol et

@@ -1,0 +1,9 @@
+Created by testinium on 6.12.2021
+
+This is a concept file with following syntax for each concept.
+# Ürünlerden rasgele bir ürün seçilir
+* "3" saniye bekle
+* Rasgele bir ürün seçilir
+* "3" saniye bekle
+* "com.ozdilek.ozdilekteyim:id/cardAddToCart" id'li elementin sayfada olduğunu kontrol et
+* "3" saniye bekle
